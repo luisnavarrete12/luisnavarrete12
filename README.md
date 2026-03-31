@@ -17,11 +17,11 @@ Specialized in building robust digital products and auditing AI-generated codeba
 - 🛠️ **Full-Lifecycle Engineering:** Delivering production-ready systems with an obsession for performance and scalability (Core Web Vitals).
 
 ---
-
 ### 📊 Terminal Analytics
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-user]&show_icons=true&theme=transparent&hide_border=true&title_color=00ff00&text_color=ffffff&icon_color=00ff00" alt="Hacker Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-user]&layout=compact&theme=transparent&hide_border=true&title_color=00ff00&text_color=ffffff" alt="Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=transparent&hide_border=true&title_color=00ff00&text_color=ffffff&icon_color=00ff00" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=transparent&hide_border=true&title_color=00ff00&text_color=ffffff" height="150" alt="Langs" />
 </p>
 
 ---
