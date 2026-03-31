@@ -1,45 +1,38 @@
-# Hi, I'm Luis navarrete 👋 
-### Full-stack Developer & Founder of Guardlock.dev 🚀
+# Luis Navarrete | Product Engineer & Founder 🏴‍☠️
+
+> **Engineering AI Security & High-Performance Architectures at [GuardLock](https://github.com/[your-user]/guardlock).**
 
 ---
 
-### 🛡️ Featured Projects
-
-| Project | Status | Description |
-| :--- | :--- | :--- |
-| **[GuardLock](https://github.com/[tu-user]/guardlock)** | 🛠️ In Development | AI-Generated Code Security Auditor & Vulnerability Scanner. |
-
+### ⚡ Core Infrastructure
+`Next.js 14+` · `TypeScript` · `Node.js` · `Scalable Systems` · `LLM Security`
 
 ---
 
-### 💻 Tech Stack & Tools
+### 🛡️ AI Security & System Architecture
+Specialized in building robust digital products and auditing AI-generated codebases. Currently spearheading **GuardLock**, a security-first suite designed to mitigate vulnerabilities in AI-assisted development and automated workflows.
 
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- 🕵️ **Vulnerability Research:** Auditing security gaps in modern AI-driven coding environments.
+- 🤖 **Neural Automation:** Designing intelligent agents and automated pipelines for technical efficiency.
+- 🛠️ **Full-Lifecycle Engineering:** Delivering production-ready systems with an obsession for performance and scalability (Core Web Vitals).
 
 ---
 
-### 📊 GitHub Stats (Cyberpunk Theme)
-
+### 📊 Terminal Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[tu-user]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[tu-user]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[your-user]&show_icons=true&theme=transparent&hide_border=true&title_color=00ff00&text_color=ffffff&icon_color=00ff00" alt="Hacker Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-user]&layout=compact&theme=transparent&hide_border=true&title_color=00ff00&text_color=ffffff" alt="Langs" height="150" />
 </p>
 
 ---
 
-### ⚡ About Me
-
-- 🔭 Currently building **GuardLock** to secure the future of AI-assisted coding.
-- ⚡ Focused on **Performance, Technical SEO, and Scalability**.
-- 🏗️ Founder of a tech agency specialized in high-performance web solutions.
+### 🌐 Direct Access
+- **Main Project:** [GuardLock.dev](https://github.com/[your-user]/guardlock)
+- **Status:** Open for High-Impact Technical Collaborations.
+- **Email:** `contacto@afterdatachile.cl`
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
+<p align="right">
+  <code>01001000 01000001 01000011 01001011 00100000 01010100 01001000 01000101 00100000 01010000 01001100 01000001 01010100 01000101 01001110</code>
 </p>
