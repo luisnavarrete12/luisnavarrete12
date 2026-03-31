@@ -1,6 +1,6 @@
 # Luis Navarrete | Product Engineer 🚀
 
-> **Engineering AI Security & High-Performance Architectures at [GuardLock](https://github.com/[your-user]/guardlock).**
+> **Engineering AI Security & High-Performance Architectures at [GuardLock](https://github.com/luisnavarrete12/guardlock.dev).**
 
 ---
 
@@ -26,5 +26,5 @@ Focused on delivering production-ready digital products and securing AI-integrat
 ---
 
 ### 🌐 Contact & Collaboration
-- **Project:** [GuardLock.dev](https://github.com/[your-user]/guardlock)
+- **Project:** [GuardLock.dev](https://github.com/luisnavarrete12/guardlock.dev)
 - **Status:** Open for High-Impact Technical Roles & Consulting.
