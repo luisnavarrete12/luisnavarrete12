@@ -1,6 +1,6 @@
-# Luis Navarrete | Product Engineer & Founder 🏴‍☠️
+# Luis Navarrete | Product Engineer & Founder 
 
-> **Engineering AI Security & High-Performance Architectures at [GuardLock](https://github.com/[your-user]/guardlock).**
+> **Engineering AI Security & High-Performance Architectures at [GuardLock](https://github.com/[luisnavarrete12]/guardlock).**
 
 ---
 
