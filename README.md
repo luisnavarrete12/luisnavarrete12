@@ -29,7 +29,7 @@ Specialized in building robust digital products and auditing AI-generated codeba
 ### 🌐 Direct Access
 - **Main Project:** [GuardLock.dev](https://github.com/[your-user]/guardlock)
 - **Status:** Open for High-Impact Technical Collaborations.
-- **Email:** `contacto@afterdatachile.cl`
+
 
 ---
 
