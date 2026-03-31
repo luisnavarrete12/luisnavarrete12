@@ -1,38 +1,31 @@
-# Luis Navarrete | Product Engineer & Founder 
+# Luis Navarrete | Product Engineer 🚀
 
-> **Engineering AI Security & High-Performance Architectures at [GuardLock](https://github.com/[luisnavarrete12]/guardlock.dev).**
-
----
-
-### ⚡ Core Infrastructure
-`Next.js 14+` · `TypeScript` · `Node.js` · `Scalable Systems` · `LLM Security`
+> **Building Scalable Architectures & AI Security Solutions at [GuardLock](https://github.com/[your-user]/guardlock).**
 
 ---
 
-### 🛡️ AI Security & System Architecture
-Specialized in building robust digital products and auditing AI-generated codebases. Currently spearheading **GuardLock**, a security-first suite designed to mitigate vulnerabilities in AI-assisted development and automated workflows.
-
-- 🕵️ **Vulnerability Research:** Auditing security gaps in modern AI-driven coding environments.
-- 🤖 **Neural Automation:** Designing intelligent agents and automated pipelines for technical efficiency.
-- 🛠️ **Full-Lifecycle Engineering:** Delivering production-ready systems with an obsession for performance and scalability (Core Web Vitals).
+### 🛠️ Technical Expertise
+`Next.js 14+` · `TypeScript` · `Node.js` · `System Architecture` · `LLM Security`
 
 ---
-### 📊 Terminal Analytics
 
+### 🛡️ Engineering & AI Security
+Focused on delivering high-performance digital products and securing AI-integrated workflows. Currently leading the development of **GuardLock**, a technical suite built to audit and secure AI-generated codebases.
+
+- ⚙️ **System Design:** Architecting scalable, production-ready applications with a focus on performance and core web vitals.
+- 🔐 **AI Security:** Implementing robust validation layers to mitigate vulnerabilities in automated development environments.
+- ⚡ **Full-Stack Implementation:** End-to-end development from database schema design to optimized frontend delivery.
+
+---
+
+### 📈 Technical Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=transparent&hide_border=true&title_color=00ff00&text_color=ffffff&icon_color=00ff00" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=transparent&hide_border=true&title_color=00ff00&text_color=ffffff" height="150" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[your-user]&show_icons=true&theme=dark&hide_border=true" height="150" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-user]&layout=compact&theme=dark&hide_border=true" height="150" alt="Langs" />
 </p>
 
 ---
 
-### 🌐 Direct Access
+### 🌐 Contact & Collaboration
 - **Main Project:** [GuardLock.dev](https://github.com/[your-user]/guardlock)
-- **Status:** Open for High-Impact Technical Collaborations.
-
-
----
-
-<p align="right">
-  <code>01001000 01000001 01000011 01001011 00100000 01010100 01001000 01000101 00100000 01010000 01001100 01000001 01010100 01000101 01001110</code>
-</p>
+- **Status:** Open for High-Impact Technical Roles & Consulting.
