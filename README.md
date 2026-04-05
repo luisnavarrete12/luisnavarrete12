@@ -18,13 +18,6 @@ Focused on delivering production-ready digital products and securing AI-integrat
 
 ---
 
-### 📊 Engineering Activity
-![Commits](https://img.shields.io/github/commit-activity/m/[your-user]/guardlock?style=for-the-badge&color=00ff00&labelColor=000000&label=GUARDLOCK%20COMMITS)
-![Repo Size](https://img.shields.io/github/repo-size/[your-user]/guardlock?style=for-the-badge&color=00ff00&labelColor=000000)
-![Language](https://img.shields.io/github/languages/top/[your-user]/guardlock?style=for-the-badge&color=00ff00&labelColor=000000)
-
----
-
 ### 🌐 Contact & Collaboration
 - **Project:** [GuardLock.dev](https://github.com/luisnavarrete12/guardlock.dev)
 - **Status:** Open for High-Impact Technical Roles & Consulting.
