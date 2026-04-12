@@ -1,23 +1,22 @@
-# Luis Navarrete | Product Engineer 🚀
+Luis Navarrete | Product Engineer 🚀
+Engineering AI Security & High-Performance Architectures at GuardLock.
+Founder & Lead Architect at Linter.cl — SEO Técnico & Next.js.
 
-> **Engineering AI Security & High-Performance Architectures at [GuardLock](https://github.com/luisnavarrete12/guardlock.dev).**
+🛠️ Technical Stack
+Next.js 15 · TypeScript · Tailwind CSS · LLM Security · Performance Optimization
 
----
+🛡️ Specialized Projects & Engineering
+Focused on delivering production-ready digital products and securing AI-integrated workflows. Currently leading the development of GuardLock and scaling high-performance web solutions through Linter.
 
-### 🛠️ Technical Stack
-`Next.js 14+` · `TypeScript` · `Node.js` · `PostgreSQL` · `LLM Security`
+⚙️ Performance Engineering: Specialist in Core Web Vitals and server-side architectures (SSR/SSG) via Linter.cl.
 
----
+🔐 AI Security: Architecting GuardLock to audit and secure AI-generated codebases.
 
-### 🛡️ Specialized Projects & Engineering
-Focused on delivering production-ready digital products and securing AI-integrated workflows. Currently leading the development of **GuardLock**, a technical suite built to audit and secure AI-generated codebases.
+⚡ SEO Técnico & Growth: Implementing advanced indexation strategies for high-impact digital products in Chile.
 
-- ⚙️ **System Design:** Architecting scalable applications with a focus on performance and Core Web Vitals.
-- 🔐 **AI Security:** Implementing robust validation layers to mitigate vulnerabilities in automated development environments.
-- ⚡ **Full-Stack Implementation:** End-to-end development from database schema design to optimized frontend delivery.
+🌐 Contact & Collaboration
+Agencia: Linter.cl | Desarrollo Next.js & SEO
 
----
+Project: GuardLock.dev
 
-### 🌐 Contact & Collaboration
-- **Project:** [GuardLock.dev](https://github.com/luisnavarrete12/guardlock.dev)
-- **Status:** Open for High-Impact Technical Roles & Consulting.
+Status: Open for High-Impact Technical Roles, Consulting & AfterData AI Implementations.
