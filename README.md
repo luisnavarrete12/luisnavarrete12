@@ -1,6 +1,6 @@
 # Luis Navarrete | Product Engineer 🚀
 
-> **Engineering AI Security & High-Performance Architectures at [GuardLock](https://github.com/luisnavarrete12/guardlock.dev).**
+> **Engineering AI Security & High-Performance Architectures at [GuardLock](https://guardlock.dev).**
 > **Founder & Lead Architect at [Linter.cl](https://linter.cl) — Technical SEO & Next.js.**
 ---
 
