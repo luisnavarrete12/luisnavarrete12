@@ -5,7 +5,7 @@
 ---
 
 ### 🛠️ Technical Stack
-`Next.js 15` · `TypeScript` · `Tailwind CSS` · `LLM Security` · `Performance Optimization`
+`Next.js 15` · `TypeScript` · `Tailwind CSS` · `LLM Security` · 
 
 ---
 
