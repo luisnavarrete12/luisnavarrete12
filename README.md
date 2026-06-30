@@ -20,4 +20,4 @@ Focused on delivering production-ready digital products and securing AI-integrat
 
 ### 🌐 Contact & Collaboration
 - **Agency:** [Linter.cl | Next.js Development & SEO](https://linter.cl)
-- **Project:** [GuardLock](https://guardlock.dev) esto es lo qtengo telodigoparaqanalicesobiolainfoensinocambiasere producentingeerquieratuonoaloqvoyescomoyloqsemuestrasicorrespondemostraresoonocacahya,sihayqcambiarloqseaoagregarlohagolaideaesqelgithubescuasiunportafoliopoactuacomoseniorhrctoqayudaagenteabusacarpegaqagreriasqlibreriasiagreagariasonoanimacioneetccreunplan
+- **Project:** [GuardLock](https://guardlock.dev) 
