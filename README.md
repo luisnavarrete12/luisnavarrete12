@@ -1,57 +1,61 @@
 <div align="center">
-  
-  # Luis D. | Product Engineer
-  
-  <!-- Reemplaza "TU_USUARIO" en el enlace de abajo -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Engineering+AI+Security;Technical+SEO+%26+High-Performance;Founder+%40+Linter.cl;Architect+%40+GuardLock.dev" alt="Typing SVG" />
-  </a>
-
-  <p><b>Focused on delivering production-ready digital products and securing AI-integrated workflows.</b></p>
-  
-  <br/>
+  <!-- Aquí va tu "Falso 3D". Subes un render oscuro en WebP o un GIF muy pulido de alguna partícula a tu repo y pones la ruta aquí -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisnavarrete12/luisnavarrete12/main/assets/hero-dark-3d.webp">
+    <img src="https://raw.githubusercontent.com/luisnavarrete12/luisnavarrete12/main/assets/hero-light-3d.webp" width="100%" alt="Luis D. - Product Engineer">
+  </picture>
 </div>
 
----
+<br><br>
 
-### 🛡️ Specialized Projects & Engineering
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h2 align="left">Architecting cognition & high-performance.</h2>
+      <p align="left">
+        I don't just write code; I build ecosystems. Specialized in <b>Next.js</b> and Server-Side architectures, my focus is bridging the gap between raw backend performance and Awwwards-level frontend experiences.
+      </p>
+      <p align="left">
+        Currently engineering AI-security infrastructure for Silicon Valley standards and scaling digital presence through high-end technical SEO.
+      </p>
+      <br>
+      <p align="left">
+        <a href="https://linter.cl"><img src="https://img.shields.io/badge/Agency-Linter.cl-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Linter"></a>
+      </p>
+    </td>
+    <td width="5%"></td>
+    <td width="45%" valign="top" align="right">
+      <!-- EL TRUCO SATORI: Esta imagen NO existe físicamente. Es un endpoint de tu propio Next.js que devuelve un SVG diseñado por ti -->
+      <a href="https://guardlock.dev">
+        <img src="https://api.linter.cl/og/github-stats?user=luisnavarrete12&project=guardlock" width="100%" alt="GuardLock Live Status">
+      </a>
+    </td>
+  </tr>
+</table>
 
-Currently leading the development of robust SaaS architectures and scaling high-performance web solutions.
+<br>
 
-*   **[GuardLock](https://guardlock.dev):** Lead Architect. Auditing and securing AI-generated codebases. Focus on LLM security and vulnerability prevention.
-*   **[Linter.cl](https://linter.cl):** Founder & Lead Developer. High-performance agency specializing in Technical SEO, SSR/SSG architectures, and complete digital product life cycles.
-
----
-
-### 🛠️ Technical Arsenal
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="45%" valign="top">
+       <!-- Otro endpoint Satori para tus verdaderas métricas de código, con tu propio diseño -->
+      <img src="https://api.linter.cl/og/tech-stack-animated" width="100%" alt="Tech Arsenal">
+    </td>
+    <td width="5%"></td>
+    <td width="50%" valign="top" align="right">
+      <h3 align="right">Engineering Output</h3>
+      <p align="right">
+        <b>[GuardLock]</b> <i>Active</i> - Auditing LLM-generated codebases for critical vulnerabilities.<br><br>
+        <b>[Linter.cl]</b> <i>Live</i> - Delivering custom SSR/SSG workflows for enterprise clients.<br><br>
+        <b>[Stack]</b> TypeScript, Next.js 15, Node.js, Tailwind CSS, AI Agents.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Security"/>
-</div>
-
----
-
-### 📊 Engineering Metrics
-
-<div align="center">
-  <!-- Reemplaza "TU_USUARIO" con tu usuario de GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=luisnavarrete12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisnavarrete12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%"/>
-</div>
-
----
-
-### 🌐 Let's Connect
-
-Open to high-impact opportunities and collaborations globally.
-
-<div align="center">
-  <a href="https://linter.cl"><img src="https://img.shields.io/badge/Agency-Linter.cl-blue?style=for-the-badge" alt="Linter.cl"/></a>
-  <a href="https://guardlock.dev"><img src="https://img.shields.io/badge/SaaS-GuardLock-red?style=for-the-badge" alt="GuardLock"/></a>
-  <!-- Agrega el link a tu perfil de LinkedIn abajo -->
-  <a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <br>
+  <hr style="width: 50px; border-color: #333;">
+  <br>
+  <a href="mailto:tu-correo@linter.cl"><b>Initiate Protocol (Contact)</b></a>
 </div>
