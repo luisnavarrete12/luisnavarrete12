@@ -16,12 +16,19 @@
 
 ---
 
-### 🛠️ Technical Stack
+### 🛡️ Security & AI Systems
+![LLM Security](https://img.shields.io/badge/LLM_Security-FF1493?style=for-the-badge&logo=openai&logoColor=white)
+![AI Auditing](https://img.shields.io/badge/AI_Code_Auditing-FF1493?style=for-the-badge&logo=shieldcheck&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
+### 🚀 Product Engineering
 ![Next.js](https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![LLM Security](https://img.shields.io/badge/LLM_Security-FF1493?style=for-the-badge&logo=openai&logoColor=white)
+![Technical SEO](https://img.shields.io/badge/Technical_SEO-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+
+### 🌐 Real-Time Graphics
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 
 ---
 
