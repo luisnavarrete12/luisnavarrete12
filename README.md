@@ -1,6 +1,6 @@
 <div align="center">
 
-
+# Luis D. | Product Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&repeat=true&width=650&height=40&lines=Engineering+AI+Security+at+GuardLock;Scaling+Next.js+%2B+Technical+SEO+at+Linter.cl;Shipping+production-ready+products.)](https://git.io/typing-svg)
 
@@ -52,7 +52,5 @@ Focused on delivering production-ready digital products and securing AI-integrat
 [![GuardLock](https://img.shields.io/badge/GuardLock-FF1493?style=for-the-badge&logo=shield&logoColor=white)](https://guardlock.dev)
 [![Linter.cl](https://img.shields.io/badge/Linter.cl-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://linter.cl)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisnavarrete12)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1a2e,6C3483,FF1493&height=100&section=footer" />
 
 </div>
