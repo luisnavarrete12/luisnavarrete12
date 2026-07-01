@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1a2e,6C3483,FF1493&height=180&section=header&text=Luis%20D.&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Product%20Engineer%20%E2%80%94%20AI%20Security%20%26%20High-Performance%20Architectures&descAlignY=52&descSize=15" />
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&repeat=true&width=650&height=40&lines=Engineering+AI+Security+at+GuardLock;Scaling+Next.js+%2B+Technical+SEO+at+Linter.cl;Shipping+production-ready+products.)](https://git.io/typing-svg)
 
