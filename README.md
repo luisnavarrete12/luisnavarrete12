@@ -52,5 +52,5 @@ Focused on delivering production-ready digital products and securing AI-integrat
 [![GuardLock](https://img.shields.io/badge/GuardLock-FF1493?style=for-the-badge&logo=shield&logoColor=white)](https://guardlock.dev)
 [![Linter.cl](https://img.shields.io/badge/Linter.cl-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://linter.cl)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisnavarrete12)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1a2e,6C3483,FF1493&height=100&section=footer" />
 </div>
