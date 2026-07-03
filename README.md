@@ -3,10 +3,6 @@
 # Luis D. | Product Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&repeat=true&width=650&height=40&lines=Engineering+AI+Security+at+GuardLock;Scaling+Next.js+%2B+Technical+SEO+at+Linter.cl;Shipping+production-ready+products.)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=luisnavarrete12&color=FF1493&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/luisnavarrete12?style=for-the-badge&color=6C3483&labelColor=1a1a2e&logo=github)
-
 </div>
 
 ---
