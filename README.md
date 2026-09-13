@@ -7,7 +7,7 @@
 
 ---
 
-> **Founder & Lead Architect at [Ascribe](https://ascribe.dev) — Generative Engine Optimization (GEO) for ChatGPT, Perplexity, Claude & Gemini.**
+> **Founder of [Ascribe](https://ascribe.dev) — Generative Engine Optimization (GEO) for ChatGPT, Perplexity, Claude & Gemini.**
 > **Engineering AI Security & High-Performance Architectures at [GuardLock](https://guardlock.dev).**
 
 ---
