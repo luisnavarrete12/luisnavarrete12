@@ -2,13 +2,13 @@
 
 # Luis D. | Product Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&repeat=true&width=650&height=40&lines=Engineering+AI+Security+at+GuardLock;Scaling+Next.js+%2B+Technical+SEO+at+Linter.cl;Shipping+production-ready+products.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&repeat=true&width=650&height=40&lines=Building+Generative+Engine+Optimization+at+Ascribe;Engineering+AI+Security+at+GuardLock;Shipping+production-ready+products.)](https://git.io/typing-svg)
 </div>
 
 ---
 
+> **Founder & Lead Architect at [Ascribe](https://ascribe.dev) — Generative Engine Optimization (GEO) for ChatGPT, Perplexity, Claude & Gemini.**
 > **Engineering AI Security & High-Performance Architectures at [GuardLock](https://guardlock.dev).**
-> **Founder & Lead Architect at [Linter.cl](https://linter.cl) — Technical SEO & Next.js.**
 
 ---
 ### 🛠️ Stack
@@ -35,10 +35,11 @@
 
 ### 🛡️ Specialized Projects & Engineering
 
-Focused on delivering production-ready digital products and securing AI-integrated workflows. Currently leading the development of **GuardLock** and scaling high-performance web solutions through **Linter**.
+Focused on delivering production-ready digital products and securing AI-integrated workflows. Currently leading the development of **Ascribe** and securing AI-generated codebases through **GuardLock**.
 
-- **Performance Engineering:** Specialist in Core Web Vitals and server-side architectures (SSR/SSG) via **[Linter.cl](https://linter.cl)**.
+- **Generative Engine Optimization (GEO):** Founder of **[Ascribe](https://ascribe.dev)**, the platform that audits whether ChatGPT, Perplexity, Claude and Gemini can access and cite a website.
 - **AI Security:** Architecting **[GuardLock](https://guardlock.dev)** to audit and secure AI-generated codebases.
+- **Performance Engineering:** Specialist in Core Web Vitals and server-side architectures (SSR/SSG).
 - **Technical SEO & Growth:** Implementing advanced indexation strategies for high-impact digital products.
 
 ---
