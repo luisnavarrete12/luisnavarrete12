@@ -48,7 +48,6 @@ Focused on delivering production-ready digital products and securing AI-integrat
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=luisnavarrete12&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF1493&icon_color=6C3483&text_color=c9d1d9&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisnavarrete12&theme=radical&hide_border=true&background=1a1a2e&stroke=FF1493&ring=6C3483&fire=FF1493&sideLabels=c9d1d9&currStreakLabel=FF1493)
 
